@@ -1,4 +1,4 @@
-# Introduction-to-machine-learning
+# Introduction to machine learning
 
 - Homework 1 - Tensorflow intro - regression, classification and neural networks.
 - Homework 2 - Tensorflow and Keras - functions of activation, training and test data, normalization, optimalization.
